@@ -1,6 +1,6 @@
 var settings = {
     "options": {
-        "pauseTime": "6",
+        "pauseTime": "10",
         "inbetweenPauseTime": "60"
     },
     "colors": {
